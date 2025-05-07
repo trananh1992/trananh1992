@@ -10,7 +10,11 @@
     <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
 </p>
 
-- 🙋‍♂️ Active DSC Lead at [FPT Telecom][dsccui] - 👉 Leading [Flutter Islamabad][flutter_isb] - 💻 The tech I'm interested in Asp.Net - 📱 First Live app on Play Store [quran] - ✨ I'm learning Flutter, Go, React.js and few others
+- 🙋‍♂️ Active DSC Lead at [FPT Telecom][dsccui]
+- 👉 Leading [Flutter Islamabad][flutter_isb]
+- 💻 The tech I'm interested in Asp.Net
+- 📱 First Live app on Play Store [quran]
+- ✨ I'm learning Flutter, Go, React.js and few others
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
